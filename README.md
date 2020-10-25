@@ -1,7 +1,7 @@
 # E-Commerce Back End
 
 ## Description
-A backend application designed to manipulate e-commerce data with sequelize in a sequal database<br>Video Demonstration: https://drive.google.com/file/d/11lSFnyY6YeJJpujMr1Ze21obs7YLGYEN/view
+A backend application designed to manipulate e-commerce data with sequelize in a sequal database<br>Video Demonstration: https://drive.google.com/file/d/1LnQhZ2PekD2Ify2dNgEfQyfkVtplkvKa/view
   
 ##
 ![project image](./img/readme.png)
