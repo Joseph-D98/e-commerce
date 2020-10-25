@@ -4,7 +4,7 @@
 A backend application designed to manipulate e-commerce data with sequelize in a sequal database<br>Video Demonstration: https://drive.google.com/file/d/11lSFnyY6YeJJpujMr1Ze21obs7YLGYEN/view
   
 ##
-![project image](./assets/readme.png)
+![project image](./img/readme.png)
   
 ## Installation
 Packages required to run this program are: run sql files:
