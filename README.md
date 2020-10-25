@@ -8,10 +8,12 @@ A backend application designed to manipulate e-commerce data with sequelize in a
   
 ## Installation
 Packages required to run this program are: run sql files:
-    npm install
-    npm install sequelize
-    npm install dotnev
-    npm install --save mysql2
+```
+npm install
+npm install sequelize
+npm install dotnev
+npm install --save mysql2
+```
 
 ## Technologies Used
 Inquirer, MySQL
@@ -21,11 +23,13 @@ MIT
 
 ## Usage
 To execute, run the following commands:
-    mysql -u root -p
-    source db/schema.sql
-    quit
-    npm run seed
-    npm start
+```
+mysql -u root -p
+source db/schema.sql
+quit
+npm run seed
+npm start
+```
 
 ## Contributors
 Joseph DeFelice
